@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+
 .travel-background-img{
   width: 100%;
   height: 100vh;
   background-image: url('./assets/bg-img.png');
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+.travel-font-heading{
+  font-family: 'Bebas Neue', cursive;
+}
+.travel-font-basic{
+  font-family: 'Montserrat', sans-serif;
 }
